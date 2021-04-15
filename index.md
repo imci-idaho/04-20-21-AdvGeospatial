@@ -438,25 +438,35 @@ A few other zoom/video conferencing housekeeping issues:
 
 Zoom Access: password required - password is: idaho_geo
 
-Topic: BCB 503 Advanced Geospatial Analysis Workshop
+Topic: BCB503 Advanced Geospatial Analysis Workshop
+Time: Apr 20, 2021 02:00 PM Pacific Time (US and Canada)
+        Every day, until Apr 21, 2021, 2 occurrence(s)
+        Apr 20, 2021 02:00 PM
+        Apr 21, 2021 02:00 PM
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Daily: https://uidaho.zoom.us/meeting/tZEqd-Crpz8oH9ENLdiYDU1asxY5LNaqJI_i/ics?icsToken=98tyKuGtqTsjGd2RshyCRpwMB4igXenxmClBgvp4sjPhChl3V1L3Jfp7Z55REcn6
 
 Join Zoom Meeting
-https://uidaho.zoom.us/j/937557828?pwd=cFFndTM1QmltRGVaWmdIYU5FdWc1dz09
+https://uidaho.zoom.us/j/85709394255?pwd=M1VrMGtzcXJwaUZGcEJsQXFBNjcrQT09
 
-Meeting ID: 937 557 828
-
+Meeting ID: 857 0939 4255
+Passcode: idaho_geo
 One tap mobile
-+16699006833,,937557828# US (San Jose)
-+16468769923,,937557828# US (New York)
++12532158782,,85709394255# US (Tacoma)
++13462487799,,85709394255# US (Houston)
 
 Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
         +1 669 900 6833 US (San Jose)
+        +1 301 715 8592 US (Washington DC)
+        +1 312 626 6799 US (Chicago)
         +1 646 876 9923 US (New York)
-Meeting ID: 937 557 828
-Find your local number: https://uidaho.zoom.us/u/aoetXY48n
+Meeting ID: 857 0939 4255
+Find your local number: https://uidaho.zoom.us/u/kdFOf5rvgD
 
 Join by SIP
-937557828@zoomcrc.com
+85709394255@zoomcrc.com
 
 Join by H.323
 162.255.37.11 (US West)
@@ -464,13 +474,21 @@ Join by H.323
 221.122.88.195 (China)
 115.114.131.7 (India Mumbai)
 115.114.115.7 (India Hyderabad)
-213.19.144.110 (EMEA)
-103.122.166.55 (Australia)
-209.9.211.110 (Hong Kong)
+213.19.144.110 (Amsterdam Netherlands)
+213.244.140.110 (Germany)
+103.122.166.55 (Australia Sydney)
+103.122.167.55 (Australia Melbourne)
+209.9.211.110 (Hong Kong SAR)
+149.137.40.110 (Singapore)
 64.211.144.160 (Brazil)
-69.174.57.160 (Canada)
-207.226.132.110 (Japan)
-Meeting ID: 937 557 828
-Password: 036740
+69.174.57.160 (Canada Toronto)
+65.39.152.160 (Canada Vancouver)
+207.226.132.110 (Japan Tokyo)
+149.137.24.110 (Japan Osaka)
+Meeting ID: 857 0939 4255
+Passcode: 460759173
+
+
+
 
 
