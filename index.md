@@ -416,3 +416,61 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+
+
+<h2 id="setup">Code Access</h2>
+
+We have created a streamlined github repository for each lesson's code.  The purpose of this repository is to give you a simple way of getting the code for each lesson, in a basic R file that can be used later.  So, please feel free to clone this repo and use in any way you'd like.  While we want to following along during the lesson and engaging, we also dont want you to worry that you have to type everything down, in order to preserve a file for your use later.  Just clone the repo in advance of the workshop.  https://github.com/erichseamon/BCB503_advanced_geospatial_workshop
+
+<h2 id="setup">Video Conference Access</h2>
+
+This zoom conference information will be used for all classes.  
+
+A few other zoom/video conferencing housekeeping issues: 
+
+1. If you can use a dual monitor setup, this will greatly assist you.
+
+2. If possible, make sure you have a webcam ergonomically set up level with your face, with your microphone close to you.
+
+3. Please leave your webcam on while interfacing with the workshop.  This is not a requirement.  We realize that you may have additional family or work/class committments that may require you to step away. However, while you are engaged in the workshop, try to have your webcam on!  It will be more fun and engaging! (If you can consider R and geospatial analysis fun!)
+
+4. We will try to leverage zoom as much as possible.  We are not going to use any other software, other than Rstudio and zoom.  However, we will be lecturing using the materials referenced above.  So - following along via your browser with the lesson we are going over will be helpful.  That means: Rstudio + zoom + web browser.  You can see why two monitors will be helpful if possible.
+
+Zoom Access: password required - password is: idaho_geo
+
+Topic: BCB 503 Advanced Geospatial Analysis Workshop
+
+Join Zoom Meeting
+https://uidaho.zoom.us/j/937557828?pwd=cFFndTM1QmltRGVaWmdIYU5FdWc1dz09
+
+Meeting ID: 937 557 828
+
+One tap mobile
++16699006833,,937557828# US (San Jose)
++16468769923,,937557828# US (New York)
+
+Dial by your location
+        +1 669 900 6833 US (San Jose)
+        +1 646 876 9923 US (New York)
+Meeting ID: 937 557 828
+Find your local number: https://uidaho.zoom.us/u/aoetXY48n
+
+Join by SIP
+937557828@zoomcrc.com
+
+Join by H.323
+162.255.37.11 (US West)
+162.255.36.11 (US East)
+221.122.88.195 (China)
+115.114.131.7 (India Mumbai)
+115.114.115.7 (India Hyderabad)
+213.19.144.110 (EMEA)
+103.122.166.55 (Australia)
+209.9.211.110 (Hong Kong)
+64.211.144.160 (Brazil)
+69.174.57.160 (Canada)
+207.226.132.110 (Japan)
+Meeting ID: 937 557 828
+Password: 036740
+
+
